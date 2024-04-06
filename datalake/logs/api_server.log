@@ -1,0 +1,51 @@
+2024-04-06 07:35:00,029:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:35:00,029:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:35:00,045:INFO: * Restarting with stat
+2024-04-06 07:35:02,109:WARNING: * Debugger is active!
+2024-04-06 07:35:02,123:INFO: * Debugger PIN: 191-105-977
+2024-04-06 07:37:53,624:INFO: * Detected change in 'C:\\Users\\jchic\\OneDrive\\Documentos\\GitHub\\taller-presencial-jchicaf\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:37:53,769:INFO: * Restarting with stat
+2024-04-06 07:37:55,553:WARNING: * Debugger is active!
+2024-04-06 07:37:55,558:INFO: * Debugger PIN: 191-105-977
+2024-04-06 07:54:58,077:INFO:127.0.0.1 - - [06/Apr/2024 07:54:58] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:59:11,770:INFO:127.0.0.1 - - [06/Apr/2024 07:59:11] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:01:23,402:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:01:23,415:INFO:127.0.0.1 - - [06/Apr/2024 08:01:23] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:02:42,434:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:02:42,447:INFO:127.0.0.1 - - [06/Apr/2024 08:02:42] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:03:57,324:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:03:57,334:INFO:127.0.0.1 - - [06/Apr/2024 08:03:57] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:04:42,560:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:04:42,560:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:04:42,567:INFO: * Restarting with stat
+2024-04-06 08:04:44,243:WARNING: * Debugger is active!
+2024-04-06 08:04:44,252:INFO: * Debugger PIN: 191-105-977
+2024-04-06 08:04:52,157:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:05:03,752:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:05:03,752:INFO:127.0.0.1 - - [06/Apr/2024 08:05:03] "POST / HTTP/1.1" 200 -
+2024-04-06 08:06:49,162:INFO: * Detected change in 'C:\\Users\\jchic\\OneDrive\\Documentos\\GitHub\\taller-presencial-jchicaf\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:06:49,429:INFO: * Restarting with stat
+2024-04-06 08:06:51,394:WARNING: * Debugger is active!
+2024-04-06 08:06:51,403:INFO: * Debugger PIN: 191-105-977
+2024-04-06 08:18:21,172:INFO: * Detected change in 'C:\\Users\\jchic\\OneDrive\\Documentos\\GitHub\\taller-presencial-jchicaf\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:18:21,262:INFO: * Restarting with stat
+2024-04-06 08:18:21,951:WARNING: * Debugger is active!
+2024-04-06 08:18:21,955:INFO: * Debugger PIN: 191-105-977
+2024-04-06 08:22:01,473:INFO: * Detected change in 'C:\\Users\\jchic\\OneDrive\\Documentos\\GitHub\\taller-presencial-jchicaf\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:22:01,583:INFO: * Restarting with stat
+2024-04-06 08:22:02,294:WARNING: * Debugger is active!
+2024-04-06 08:22:02,297:INFO: * Debugger PIN: 191-105-977
+2024-04-06 08:22:04,323:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:22:04,934:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:22:04,934:INFO:127.0.0.1 - - [06/Apr/2024 08:22:04] "POST / HTTP/1.1" 200 -
+2024-04-06 09:19:37,463:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:19:37,463:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:19:37,464:INFO: * Restarting with stat
+2024-04-06 09:19:38,119:WARNING: * Debugger is active!
+2024-04-06 09:19:38,123:INFO: * Debugger PIN: 191-105-977
+2024-04-06 09:28:36,178:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:28:41,077:INFO:Prediction: [171805.74212195]
+2024-04-06 09:28:41,078:INFO:127.0.0.1 - - [06/Apr/2024 09:28:41] "POST / HTTP/1.1" 200 -
